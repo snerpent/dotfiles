@@ -1,0 +1,396 @@
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+i3status: trying to auto-detect output_format setting
+i3status: auto-detection: parent process is "sh", looking at its parent
+i3status: auto-detected "i3bar"
+[27424:27424:0104/112639:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27424:27424:0104/112639:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "adwaita",
+[27424:27424:0104/112639:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27424:27424:0104/112639:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27424:27424:0104/112639:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "adwaita",
+[27424:27424:0104/112639:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27424:27424:0104/112639:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27424:27424:0104/112639:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27424:27424:0104/112639:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27424:27424:0104/112639:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27424:27424:0104/112639:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27424:27424:0104/112639:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27424:27424:0104/112639:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27424:27424:0104/112639:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27424:27424:0104/112639:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27424:27424:0104/112639:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27424:27424:0104/112639:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27424:27424:0104/112639:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27424:27424:0104/112639:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27424:27424:0104/112639:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27424:27424:0104/112639:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27424:27424:0104/112639:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27424:27424:0104/112639:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27424:27424:0104/112639:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27424:27424:0104/112639:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27424:27424:0104/112639:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27424:27424:0104/112639:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27424:27424:0104/112639:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27424:27424:0104/112639:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27424:27424:0104/112639:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27424:27424:0104/112639:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27424:27424:0104/112639:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27424:27424:0104/112639:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+
+(rhythmbox:27431): Gtk-WARNING **: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(thunderbird:27426): Gtk-WARNING **: Unable to locate theme engine in module_path: "pixmap",
+
+(thunderbird:27426): Gtk-WARNING **: Unable to locate theme engine in module_path: "adwaita",
+
+(thunderbird:27426): Gtk-WARNING **: Unable to locate theme engine in module_path: "pixmap",
+
+(thunderbird:27426): Gtk-WARNING **: Unable to locate theme engine in module_path: "pixmap",
+
+(thunderbird:27426): Gtk-WARNING **: Unable to locate theme engine in module_path: "adwaita",
+
+(thunderbird:27426): Gtk-WARNING **: Unable to locate theme engine in module_path: "pixmap",
+
+(thunderbird:27426): Gtk-WARNING **: Unable to locate theme engine in module_path: "pixmap",
+
+(thunderbird:27426): Gtk-WARNING **: Unable to locate theme engine in module_path: "pixmap",
+
+(thunderbird:27426): Gtk-WARNING **: Unable to locate theme engine in module_path: "pixmap",
+
+(thunderbird:27426): Gtk-WARNING **: Unable to locate theme engine in module_path: "pixmap",
+
+(thunderbird:27426): Gtk-WARNING **: Unable to locate theme engine in module_path: "pixmap",
+
+(thunderbird:27426): Gtk-WARNING **: Unable to locate theme engine in module_path: "pixmap",
+
+(thunderbird:27426): Gtk-WARNING **: Unable to locate theme engine in module_path: "pixmap",
+
+(thunderbird:27426): Gtk-WARNING **: Unable to locate theme engine in module_path: "pixmap",
+
+(thunderbird:27426): Gtk-WARNING **: Unable to locate theme engine in module_path: "pixmap",
+
+(thunderbird:27426): Gtk-WARNING **: Unable to locate theme engine in module_path: "pixmap",
+
+(thunderbird:27426): Gtk-WARNING **: Unable to locate theme engine in module_path: "pixmap",
+
+(thunderbird:27426): Gtk-WARNING **: Unable to locate theme engine in module_path: "pixmap",
+
+(thunderbird:27426): Gtk-WARNING **: Unable to locate theme engine in module_path: "pixmap",
+
+(thunderbird:27426): Gtk-WARNING **: Unable to locate theme engine in module_path: "pixmap",
+
+(thunderbird:27426): Gtk-WARNING **: Unable to locate theme engine in module_path: "pixmap",
+
+(thunderbird:27426): Gtk-WARNING **: Unable to locate theme engine in module_path: "pixmap",
+
+(thunderbird:27426): Gtk-WARNING **: Unable to locate theme engine in module_path: "pixmap",
+
+(thunderbird:27426): Gtk-WARNING **: Unable to locate theme engine in module_path: "pixmap",
+
+(thunderbird:27426): Gtk-WARNING **: Unable to locate theme engine in module_path: "pixmap",
+
+(thunderbird:27426): Gtk-WARNING **: Unable to locate theme engine in module_path: "pixmap",
+
+(thunderbird:27426): Gtk-WARNING **: Unable to locate theme engine in module_path: "pixmap",
+
+(thunderbird:27426): Gtk-WARNING **: Unable to locate theme engine in module_path: "pixmap",
+
+(thunderbird:27426): Gtk-WARNING **: Unable to locate theme engine in module_path: "pixmap",
+
+(thunderbird:27426): Gtk-WARNING **: Unable to locate theme engine in module_path: "pixmap",
+
+(thunderbird:27426): Gtk-WARNING **: Unable to locate theme engine in module_path: "pixmap",
+
+(thunderbird:27426): Gtk-WARNING **: Unable to locate theme engine in module_path: "pixmap",
+
+(thunderbird:27426): Gtk-WARNING **: Unable to locate theme engine in module_path: "pixmap",
+
+(rhythmbox:27431): libsoup-CRITICAL **: soup_server_quit: assertion 'priv->listeners != NULL' failed
+
+(rhythmbox:27431): GLib-GObject-CRITICAL **: object SoupServer 0x14a8780 finalized while still in-construction
+
+(rhythmbox:27431): GLib-GObject-CRITICAL **: Custom constructor for class SoupServer returned NULL (which is invalid). Please use GInitable instead.
+
+(rhythmbox:27431): Gtk-WARNING **: Duplicate child name in GtkStack: Add to Playlist
+
+
+(rhythmbox:27431): Gtk-WARNING **: Duplicate child name in GtkStack: Add to Playlist
+
+
+(rhythmbox:27431): Gtk-WARNING **: Duplicate child name in GtkStack: Add to Playlist
+
+
+(rhythmbox:27431): Gtk-WARNING **: Duplicate child name in GtkStack: Add to Playlist
+
+
+(rhythmbox:27431): Gtk-WARNING **: Duplicate child name in GtkStack: Add to Playlist
+
+
+(rhythmbox:27431): Gtk-WARNING **: Duplicate child name in GtkStack: Add to Playlist
+
+
+(rhythmbox:27431): Rhythmbox-WARNING **: Unable to grab media player keys: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SettingsDaemon was not provided by any .service files
+[27829:27829:0104/112843:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27829:27829:0104/112843:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "adwaita",
+[27829:27829:0104/112843:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27829:27829:0104/112843:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27829:27829:0104/112843:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "adwaita",
+[27829:27829:0104/112843:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27829:27829:0104/112843:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27829:27829:0104/112843:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27829:27829:0104/112843:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27829:27829:0104/112843:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27829:27829:0104/112843:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27829:27829:0104/112843:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27829:27829:0104/112843:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27829:27829:0104/112843:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27829:27829:0104/112843:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27829:27829:0104/112843:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27829:27829:0104/112843:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27829:27829:0104/112843:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27829:27829:0104/112843:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27829:27829:0104/112843:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27829:27829:0104/112843:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27829:27829:0104/112843:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27829:27829:0104/112843:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27829:27829:0104/112843:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27829:27829:0104/112843:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27829:27829:0104/112843:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27829:27829:0104/112843:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27829:27829:0104/112843:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27829:27829:0104/112843:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27829:27829:0104/112843:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27829:27829:0104/112843:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27829:27829:0104/112843:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27829:27829:0104/112843:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27902:27902:0104/112847:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27902:27902:0104/112847:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "adwaita",
+[27902:27902:0104/112847:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27902:27902:0104/112847:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27902:27902:0104/112847:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "adwaita",
+[27902:27902:0104/112847:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27902:27902:0104/112847:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27902:27902:0104/112847:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27902:27902:0104/112847:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27902:27902:0104/112847:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27902:27902:0104/112847:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27902:27902:0104/112847:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27902:27902:0104/112847:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27902:27902:0104/112847:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27902:27902:0104/112847:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27902:27902:0104/112847:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27902:27902:0104/112847:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27902:27902:0104/112847:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27902:27902:0104/112847:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27902:27902:0104/112847:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27902:27902:0104/112847:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27902:27902:0104/112847:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27902:27902:0104/112847:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27902:27902:0104/112847:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27902:27902:0104/112847:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27902:27902:0104/112847:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27902:27902:0104/112847:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27902:27902:0104/112847:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27902:27902:0104/112847:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27902:27902:0104/112847:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27902:27902:0104/112847:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27902:27902:0104/112847:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27902:27902:0104/112847:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27982:27982:0104/112927:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27982:27982:0104/112927:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "adwaita",
+[27982:27982:0104/112927:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27982:27982:0104/112927:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27982:27982:0104/112927:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "adwaita",
+[27982:27982:0104/112927:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27982:27982:0104/112927:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27982:27982:0104/112927:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27982:27982:0104/112927:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27982:27982:0104/112927:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27982:27982:0104/112927:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27982:27982:0104/112927:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27982:27982:0104/112927:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27982:27982:0104/112927:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27982:27982:0104/112927:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27982:27982:0104/112927:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27982:27982:0104/112927:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27982:27982:0104/112927:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27982:27982:0104/112927:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27982:27982:0104/112927:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27982:27982:0104/112927:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27982:27982:0104/112927:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27982:27982:0104/112927:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27982:27982:0104/112927:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27982:27982:0104/112927:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27982:27982:0104/112927:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27982:27982:0104/112927:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27982:27982:0104/112927:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27982:27982:0104/112927:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27982:27982:0104/112927:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27982:27982:0104/112927:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27982:27982:0104/112927:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[27982:27982:0104/112927:ERROR:browser_main_loop.cc(249)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[1:1:0104/112951:ERROR:PlatformKeyboardEvent.cpp(84)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+[1:1:0104/112951:ERROR:PlatformKeyboardEvent.cpp(84)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+[1:1:0104/113003:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/113004:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/113009:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/113009:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/113013:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/113014:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/113015:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/113034:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/113035:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/113035:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/113036:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/113037:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/113037:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/113038:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/113038:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/113041:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/113042:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/113043:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/113044:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/113047:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/113047:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/113047:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/113049:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/113051:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/113052:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/113053:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/113054:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/113055:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/113056:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/113056:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/113057:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/113057:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/115207:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/115208:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/121655:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/121755:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/121756:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/121757:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/121759:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/121801:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/121801:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/121802:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/121803:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/121804:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/121805:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/121806:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/121807:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/121819:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/121900:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/121905:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[27424:27487:0104/123140:ERROR:connection_factory_impl.cc(369)] Failed to connect to MCS endpoint with error -106
+[27424:27487:0104/172053:ERROR:connection_factory_impl.cc(369)] Failed to connect to MCS endpoint with error -106
+[27424:27487:0104/172059:ERROR:connection_factory_impl.cc(369)] Failed to connect to MCS endpoint with error -21
+[1:1:0104/172200:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/172318:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+Exiting due to signal.
+i3status: trying to auto-detect output_format setting
+i3status: auto-detection: parent process is "sh", looking at its parent
+i3status: auto-detected "i3bar"
+[1:1:0104/172806:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/173454:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/173457:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/173458:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/173458:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/173459:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/173513:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/173520:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/173520:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/173520:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/173520:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/173521:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/173521:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/173522:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/173530:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/173545:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/173557:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/173559:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/173559:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/173600:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/173600:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/173601:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/173601:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/174847:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/174904:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/174945:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/174949:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/175311:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/175312:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/175316:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/175316:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/175317:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/175318:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/175319:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/175319:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/175322:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/175345:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/175346:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/175349:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/175351:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/175352:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/175352:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/175353:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/175354:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/175355:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/175355:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/175356:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/175357:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/175357:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/175358:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/175359:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/175401:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/175402:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/175403:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/175404:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/175406:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/175407:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/175408:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/175408:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/175409:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/175410:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/175732:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/175732:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/175733:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/180218:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/180219:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/180231:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/180231:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/180233:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/180240:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/180249:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0104/180250:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static blink::PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+Exiting due to signal.
+thunderbird: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+[27520:27520:0104/180513:ERROR:x11_util.cc(90)] X IO error received (X server probably went away)
+
+(rhythmbox:27431): Gdk-WARNING **: rhythmbox: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+[27424:27424:0104/180513:ERROR:chrome_browser_main_extra_parts_x11.cc(62)] X IO error received (X server probably went away)
+Terminated
+Invalid MIT-MAGIC-COOKIE-1 keyInvalid MIT-MAGIC-COOKIE-1 keyReceived signal 11 SEGV_MAPERR 000000000968
+#0 0x7f5328574e9e base::debug::StackTrace::StackTrace()
+#1 0x7f532857528b <unknown>
+#2 0x7f5312a71d10 <unknown>
+#3 0x7f53164d6643 XInternAtoms
+#4 0x7f5321b3a069 ui::X11AtomCache::X11AtomCache()
+#5 0x7f53231a7255 ui::DeviceDataManagerX11::DeviceDataManagerX11()
+#6 0x7f53231a7305 ui::DeviceDataManagerX11::CreateInstance()
+#7 0x7f53175a635a ui::X11EventSource::X11EventSource()
+#8 0x7f53175a9325 ui::X11EventSourceGlib::X11EventSourceGlib()
+#9 0x7f53175a937b ui::PlatformEventSource::CreateDefault()
+#10 0x7f53250a17dd <unknown>
+#11 0x7f5324b7ad3d <unknown>
+#12 0x7f5324b78f41 content::ContentMain()
+#13 0x55cbc921b08a <unknown>
+#14 0x7f53126b7ac0 __libc_start_main
+#15 0x55cbc921af49 <unknown>
+  r8: 0000231eb410cd10  r9: fffffffc0566bcf3 r10: ffffdce2b1685d33 r11: 0000000000000246
+ r12: 0000000000000000 r13: 0000000000000015 r14: 0000000000000000 r15: 0000231eb410cd10
+  di: 0000000000000000  si: 00007f53233af020  bp: 00007f53233af020  bx: 0000231eb410cd10
+  dx: 0000000000000015  ax: 0000000000000000  cx: 0000000000000000  sp: 00007ffd50eee320
+  ip: 00007f53164d6643 efl: 0000000000010246 cgf: 0000000000000033 erf: 0000000000000004
+ trp: 000000000000000e msk: 0000000000000000 cr2: 0000000000000968
+[end of stack trace]
